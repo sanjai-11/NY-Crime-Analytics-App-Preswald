@@ -94,7 +94,7 @@ preswald export
 ---
 
 ### 🙌 Special Thanks
-Big shoutout and heartfelt thanks to the amazing team behind Preswald, and especially to @gujjar — your work is making local-first, reactive, code-driven data apps a reality. This dashboard wouldn’t exist without your vision.
+Big shoutout and heartfelt thanks to the amazing team behind Preswald, founders - [@amrutha97](https://github.com/amrutha97), [@shivam-singhal](https://github.com/shivam-singhal) — your work is making local-first, reactive, code-driven data apps a reality. This dashboard wouldn’t exist without your vision.
 
 THanks for stopping by!
 Feel free to ⭐ the repo this repo & the master mind repo [Preswald](https://github.com/StructuredLabs/preswald).
