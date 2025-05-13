@@ -18,7 +18,7 @@ This dashboard lets you explore all that and more:
 🧭 **Interactive filtering**  
 🎯 **County-wise breakdowns**  
 📊 **Bar charts, line graphs, histograms** — all powered by **Plotly**  
-📅 Data from **1990 to Present**  
+📅 Data from **1990 to 2023**  
 💻 Runs entirely in the browser (thanks to [Preswald](https://github.com/StructuredLabs/preswald))
 
 It’s like Google Maps for crime — just with fewer detours and cleaner data 😉
