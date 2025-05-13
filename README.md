@@ -93,6 +93,18 @@ preswald export
 ```
 ---
 
+## 📸 Snaps
+
+![image](https://github.com/user-attachments/assets/6b8c6e3a-3c47-412f-9c1f-28a709958923)
+
+![image](https://github.com/user-attachments/assets/5e077487-6523-41c6-9f72-66ded4088d3c)
+
+![image](https://github.com/user-attachments/assets/13cfe077-ba1f-4f1e-a30d-06332e242f92)
+
+![image](https://github.com/user-attachments/assets/b49fa93b-0404-41ef-9b33-eb17f85f57d0)
+
+---
+
 ### 🙌 Special Thanks
 Big shoutout and heartfelt thanks to the amazing team behind Preswald, founders - [@amrutha97](https://github.com/amrutha97), [@shivam-singhal](https://github.com/shivam-singhal) — your work is making local-first, reactive, code-driven data apps a reality. This dashboard wouldn’t exist without your vision.
 
