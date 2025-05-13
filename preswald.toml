@@ -1,0 +1,20 @@
+[project]
+title = "New York Crime Analytics App"
+version = "0.1.0"
+port = 8501
+slug = "NY-Crime"  
+entrypoint = "hello.py"    
+
+[branding]
+name = "New York Crime Analytics App"
+logo = "images/logo.png"
+favicon = "images/favicon.ico"
+primaryColor = "#F89613"
+
+[data.crime_data_csv]
+type = "csv"
+path = "data/crime_data.csv"
+
+[logging]
+level = "INFO"  
+format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
